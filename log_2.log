@@ -1,0 +1,28 @@
+2024-06-13 21:28:26
+Function: hello_world
+Called with:
+  args: ()
+  kwargs: {}
+Returned: Hello World
+----------------------------------------
+2024-06-13 21:28:26
+Function: summator
+Called with:
+  args: (2, 2)
+  kwargs: {}
+Returned: 4
+----------------------------------------
+2024-06-13 21:28:26
+Function: div
+Called with:
+  args: (6, 2)
+  kwargs: {}
+Returned: 3.0
+----------------------------------------
+2024-06-13 21:28:26
+Function: summator
+Called with:
+  args: (4.3,)
+  kwargs: {'b': 2.2}
+Returned: 6.5
+----------------------------------------
